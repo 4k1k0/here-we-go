@@ -1,0 +1,13 @@
+linters:
+  enable:
+    - deadcode
+    - errcheck
+    - godot
+    - gosimple
+    - govet
+    - ineffassign
+    - staticcheck
+    - structcheck
+    - typecheck
+    - unused
+    - varcheck

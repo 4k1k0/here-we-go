@@ -1,0 +1,19 @@
+mode: set
+github.com/4k1k0/escuelacli/pkg/db/db.go:37.27,39.29 2 1
+github.com/4k1k0/escuelacli/pkg/db/db.go:42.2,42.14 1 1
+github.com/4k1k0/escuelacli/pkg/db/db.go:39.29,41.3 1 1
+github.com/4k1k0/escuelacli/pkg/db/db.go:46.46,47.34 1 1
+github.com/4k1k0/escuelacli/pkg/db/db.go:50.2,50.50 1 0
+github.com/4k1k0/escuelacli/pkg/db/db.go:47.34,49.3 1 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:20.27,24.16 3 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:29.2,31.18 3 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:24.16,27.3 2 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:42.17,46.2 3 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:48.34,54.2 4 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:56.39,58.2 1 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:60.49,63.26 2 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:68.2,68.13 1 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:63.26,66.3 2 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:71.43,76.34 4 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:80.2,80.13 1 1
+github.com/4k1k0/escuelacli/pkg/table/table.go:76.34,79.3 2 1
